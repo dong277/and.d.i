@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">안드로이드 장치 정보</string>
+    <string name="action_settings">설정</string>
+    <string name="info_android_os">기본정보</string>
+</resources>
